@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "dist.js",
   "dependencies": {
-    "debug": "^2.6.8"
+    "debug": "^2.6.9"
   }
 }
